@@ -1,0 +1,9 @@
+C:\Users\nur\source\repos\NotSistemi_HW\NotSistemi_HW\bin\Debug\NotSistemi_HW.exe.config
+C:\Users\nur\source\repos\NotSistemi_HW\NotSistemi_HW\bin\Debug\NotSistemi_HW.exe
+C:\Users\nur\source\repos\NotSistemi_HW\NotSistemi_HW\bin\Debug\NotSistemi_HW.pdb
+C:\Users\nur\source\repos\NotSistemi_HW\NotSistemi_HW\obj\Debug\NotSistemi_HW.Form1.resources
+C:\Users\nur\source\repos\NotSistemi_HW\NotSistemi_HW\obj\Debug\NotSistemi_HW.Properties.Resources.resources
+C:\Users\nur\source\repos\NotSistemi_HW\NotSistemi_HW\obj\Debug\NotSistemi_HW.csproj.GenerateResource.cache
+C:\Users\nur\source\repos\NotSistemi_HW\NotSistemi_HW\obj\Debug\NotSistemi_HW.csproj.CoreCompileInputs.cache
+C:\Users\nur\source\repos\NotSistemi_HW\NotSistemi_HW\obj\Debug\NotSistemi_HW.exe
+C:\Users\nur\source\repos\NotSistemi_HW\NotSistemi_HW\obj\Debug\NotSistemi_HW.pdb
